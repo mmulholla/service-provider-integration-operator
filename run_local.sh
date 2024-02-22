@@ -19,7 +19,7 @@ ADMIN_PASSWORD="30NNs0upDhhW8Q0R"
 USER_NAMESPACE="user1ns"
 REPO_DIR="/Users/martinmulholland/go/src/github.com/redhat-appstudio/service-provider-integration-operator"
 QUAY="quay.io/mmulholl/service-provider-integration-oauth"
-UPLOAD_TOKEN="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"
+UPLOAD_TOKEN="bathtub_cat_11ARBCTMQ08QNmp7Gb1rsG_2O0aMWfHrht2zUC6bdQvDpUwPxY5BrBILDkR6FdnpelINH2V2I2nhLnT7hp"
 
 
 check_namespace() {
